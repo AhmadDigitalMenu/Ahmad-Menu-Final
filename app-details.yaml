@@ -1,0 +1,13 @@
+name: "Ahmad Digital Menu "
+appSettings:
+  advancedSettings:
+    webBuildSettings: {}
+routingSettings:
+  enableRouting: true
+  pagesAreSubroutesOfRoot: false
+initialPageKeyRef:
+  key: Scaffold_7gwc7gwx
+allAppNames:
+  appNames:
+    PROD:
+      packageName: com.mycompany.ahmaddigitalmenu
