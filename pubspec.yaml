@@ -1,13 +1,18 @@
-name: "Ahmad Digital Menu "
-appSettings:
-  advancedSettings:
-    webBuildSettings: {}
-routingSettings:
-  enableRouting: true
-  pagesAreSubroutesOfRoot: false
-initialPageKeyRef:
-  key: Scaffold_7gwc7gwx
-allAppNames:
-  appNames:
-    PROD:
-      packageName: com.mycompany.ahmaddigitalmenu
+name: ahmad_digital_menu
+description: A new Flutter project.
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
