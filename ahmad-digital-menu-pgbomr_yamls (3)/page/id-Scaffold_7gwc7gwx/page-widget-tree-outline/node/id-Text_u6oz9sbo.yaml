@@ -1,0 +1,17 @@
+key: Text_u6oz9sbo
+type: Text
+props:
+  text:
+    themeStyle: TITLE_MEDIUM
+    selectable: false
+    textValue:
+      inputValue: Grilled Chicken Sandwich
+    fontWeightValue:
+      inputValue: w600
+  padding:
+    type: FF_PADDING_ALL
+    allValue:
+      inputValue: 0
+  opacity:
+    opacityValue:
+      inputValue: 1

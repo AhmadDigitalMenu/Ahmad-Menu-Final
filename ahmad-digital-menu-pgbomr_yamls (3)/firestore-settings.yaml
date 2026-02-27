@@ -1,0 +1,14 @@
+rules:
+  collectionRules:
+    y7mhyocj:
+      creat:
+        everyone: {}
+      read:
+        everyone: {}
+      update:
+        noOne: {}
+      delete:
+        noOne: {}
+      isExcluded: false
+validation:
+  mode: DISABLED

@@ -1,0 +1,31 @@
+key: Icon_clqzp3sc
+type: Icon
+props:
+  icon:
+    sizeValue:
+      inputValue: 48
+    colorValue:
+      inputValue:
+        value: "4286239289"
+    iconDataValue:
+      inputValue:
+        codePoint: 62002
+        family: FontAwesomeBrands
+        package: font_awesome_flutter
+        matchTextDirection: false
+        packageIcon:
+          fontAwesome: whatsapp
+        name: whatsapp
+  padding:
+    type: FF_PADDING_ALL
+    allValue:
+      inputValue: 0
+  alignment:
+    xValue:
+      inputValue: 0
+    yValue:
+      inputValue: 0
+  opacity:
+    opacityValue:
+      inputValue: 1
+name: WhatsAPP

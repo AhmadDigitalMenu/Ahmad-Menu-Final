@@ -1,0 +1,17 @@
+key: Text_wrt6sc8g
+type: Text
+props:
+  text:
+    themeStyle: TITLE_MEDIUM
+    selectable: false
+    textValue:
+      inputValue: Chicken Alfredo Pasta
+    fontWeightValue:
+      inputValue: w600
+  padding:
+    type: FF_PADDING_ALL
+    allValue:
+      inputValue: 0
+  opacity:
+    opacityValue:
+      inputValue: 1

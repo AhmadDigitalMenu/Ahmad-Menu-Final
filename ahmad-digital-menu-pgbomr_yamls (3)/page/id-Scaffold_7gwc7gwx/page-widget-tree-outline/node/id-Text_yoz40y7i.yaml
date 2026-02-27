@@ -1,0 +1,22 @@
+key: Text_yoz40y7i
+type: Text
+props:
+  text:
+    themeStyle: TITLE_MEDIUM
+    selectable: false
+    textValue:
+      variable:
+        source: CONSTANTS
+        baseVariable:
+          constants:
+            value: EMPTY_STRING
+      mostRecentInputValue: Classic Beef Burger
+    fontWeightValue:
+      inputValue: w600
+  padding:
+    type: FF_PADDING_ALL
+    allValue:
+      inputValue: 0
+  opacity:
+    opacityValue:
+      inputValue: 1

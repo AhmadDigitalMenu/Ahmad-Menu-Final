@@ -1,0 +1,37 @@
+key: IconButton_0koheviu
+type: IconButton
+props:
+  iconButton:
+    buttonSize:
+      pixelsValue:
+        inputValue: 40
+    fillColorValue:
+      inputValue:
+        themeColor: SECONDARY_BACKGROUND
+    borderRadiusValue:
+      inputValue: 20
+    iconValue:
+      inputValue:
+        sizeValue:
+          inputValue: 20
+        colorValue:
+          inputValue:
+            themeColor: PRIMARY_TEXT
+        iconDataValue:
+          inputValue:
+            codePoint: 58372
+            family: MaterialIcons
+            name: more_vert
+  padding:
+    type: FF_PADDING_ONLY
+    leftValue:
+      inputValue: 12
+    topValue:
+      inputValue: 0
+    rightValue:
+      inputValue: 12
+    bottomValue:
+      inputValue: 0
+  opacity:
+    opacityValue:
+      inputValue: 1

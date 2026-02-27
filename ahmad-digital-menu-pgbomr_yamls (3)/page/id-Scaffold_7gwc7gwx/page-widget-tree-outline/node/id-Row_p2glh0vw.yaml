@@ -1,0 +1,14 @@
+key: Row_p2glh0vw
+type: Row
+props:
+  row:
+    listSpacing:
+      spacingValue:
+        inputValue: 12
+  padding:
+    type: FF_PADDING_ALL
+    allValue:
+      inputValue: 12
+  opacity:
+    opacityValue:
+      inputValue: 1

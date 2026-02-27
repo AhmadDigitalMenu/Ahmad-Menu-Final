@@ -1,0 +1,13 @@
+key: Row_dko0u96h
+type: Row
+props:
+  row:
+    mainAxisAlignment: main_axis_space_between
+    crossAxisAlignment: cross_axis_center
+  padding:
+    type: FF_PADDING_ALL
+    allValue:
+      inputValue: 12
+  opacity:
+    opacityValue:
+      inputValue: 1

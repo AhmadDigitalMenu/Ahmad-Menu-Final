@@ -1,0 +1,19 @@
+key: Scaffold_7gwc7gwx
+type: Scaffold
+props:
+  padding:
+    type: FF_PADDING_ALL
+    allValue:
+      inputValue: 0
+  scaffold:
+    safeArea: true
+    hideKeyboardOnTap: true
+    backgroundColorValue:
+      inputValue:
+        themeColor: PRIMARY_BACKGROUND
+  opacity:
+    opacityValue:
+      inputValue: 1
+name: DigitalMenu
+aiGeneratedNodeInfo:
+  isAiGenerated: true

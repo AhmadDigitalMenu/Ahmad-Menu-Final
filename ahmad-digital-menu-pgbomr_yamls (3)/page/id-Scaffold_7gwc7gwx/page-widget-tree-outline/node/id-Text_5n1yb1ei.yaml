@@ -1,0 +1,26 @@
+key: Text_5n1yb1ei
+type: Text
+props:
+  text:
+    themeStyle: BODY_SMALL
+    selectable: false
+    textValue:
+      inputValue: "Fresh romaine lettuce with caesar dressing, croutons, and parmesan"
+    colorValue:
+      inputValue:
+        themeColor: SECONDARY_TEXT
+    maxLinesValue:
+      inputValue: 2
+  padding:
+    type: FF_PADDING_ONLY
+    leftValue:
+      inputValue: 0
+    topValue:
+      inputValue: 4
+    rightValue:
+      inputValue: 0
+    bottomValue:
+      inputValue: 8
+  opacity:
+    opacityValue:
+      inputValue: 1

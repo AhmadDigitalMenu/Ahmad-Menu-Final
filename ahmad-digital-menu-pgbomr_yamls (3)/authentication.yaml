@@ -1,0 +1,10 @@
+firebaseConfigFileInfos:
+  - androidPath: users/6nAKHdFDQ5MOUO57BIavU7IlFU83/projects/ahmad-digital-menu-pgbomr/configs/jk0wlqf52wfc/google-services.json
+    iosPath: users/6nAKHdFDQ5MOUO57BIavU7IlFU83/projects/ahmad-digital-menu-pgbomr/configs/9qm04l3ij1lc/GoogleService-Info.plist
+    webConfig: "\/\/ Copy and paste this into your JavaScript code to initialize the Firebase SDK.\n\/\/ You will also need to load the Firebase SDK.\n\/\/ See https:\/\/firebase.google.com\/docs\/web\/setup for more details.\n\nfirebase.initializeApp({\n  \"projectId\": \"ahmad-digital-menu-pgbomr\",\n  \"appId\": \"1:1083956630950:web:8ce2de5bac84f93f5d6b67\",\n  \"storageBucket\": \"ahmad-digital-menu-pgbomr.firebasestorage.app\",\n  \"apiKey\": \"AIzaSyBi42T8K5CtPjB7BqZgEJbh5v1GfxckTeo\",\n  \"authDomain\": \"ahmad-digital-menu-pgbomr.firebaseapp.com\",\n  \"messagingSenderId\": \"1083956630950\",\n  \"projectNumber\": \"1083956630950\",\n  \"version\": \"2\"\n});\n"
+    androidPackageNames:
+      - com.mycompany.ahmaddigitalmenu
+    iosBundleId: com.mycompany.ahmaddigitalmenu
+    environment:
+      name: Production
+      key: PROD

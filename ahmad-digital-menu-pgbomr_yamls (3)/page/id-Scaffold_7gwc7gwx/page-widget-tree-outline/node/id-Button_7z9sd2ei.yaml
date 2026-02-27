@@ -1,0 +1,48 @@
+key: Button_7z9sd2ei
+type: Button
+props:
+  button:
+    text:
+      themeStyle: LABEL_SMALL
+      textValue:
+        inputValue: View in 3D Model
+      colorValue:
+        inputValue:
+          themeColor: PRIMARY
+      fontWeightValue:
+        inputValue: w600
+    borderRadius:
+      type: FF_BORDER_RADIUS_ALL
+      allValue:
+        inputValue: 16
+    innerPadding:
+      type: FF_PADDING_ONLY
+      leftValue:
+        inputValue: 12
+      topValue:
+        inputValue: 0
+      rightValue:
+        inputValue: 12
+      bottomValue:
+        inputValue: 0
+    dimensions:
+      height:
+        pixelsValue:
+          inputValue: 28
+    elevationValue:
+      inputValue: 0
+    fillColorValue:
+      inputValue:
+        themeColor: ACCENT_1
+    borderColorValue:
+      inputValue:
+        themeColor: PRIMARY
+    borderWidthValue:
+      inputValue: 1
+  padding:
+    type: FF_PADDING_ALL
+    allValue:
+      inputValue: 0
+  opacity:
+    opacityValue:
+      inputValue: 1

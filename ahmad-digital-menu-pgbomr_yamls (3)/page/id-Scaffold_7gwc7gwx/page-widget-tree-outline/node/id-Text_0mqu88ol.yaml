@@ -1,0 +1,26 @@
+key: Text_0mqu88ol
+type: Text
+props:
+  text:
+    themeStyle: BODY_SMALL
+    selectable: false
+    textValue:
+      inputValue: "Tender grilled chicken breast with avocado, lettuce, and mayo"
+    colorValue:
+      inputValue:
+        themeColor: SECONDARY_TEXT
+    maxLinesValue:
+      inputValue: 2
+  padding:
+    type: FF_PADDING_ONLY
+    leftValue:
+      inputValue: 0
+    topValue:
+      inputValue: 4
+    rightValue:
+      inputValue: 0
+    bottomValue:
+      inputValue: 8
+  opacity:
+    opacityValue:
+      inputValue: 1

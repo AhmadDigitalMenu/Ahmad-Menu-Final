@@ -1,0 +1,26 @@
+key: Text_rxq51rzz
+type: Text
+props:
+  text:
+    themeStyle: BODY_SMALL
+    selectable: false
+    textValue:
+      inputValue: "Traditional Italian pizza with fresh mozzarella, basil, and tomato sauce"
+    colorValue:
+      inputValue:
+        themeColor: SECONDARY_TEXT
+    maxLinesValue:
+      inputValue: 2
+  padding:
+    type: FF_PADDING_ONLY
+    leftValue:
+      inputValue: 0
+    topValue:
+      inputValue: 4
+    rightValue:
+      inputValue: 0
+    bottomValue:
+      inputValue: 8
+  opacity:
+    opacityValue:
+      inputValue: 1

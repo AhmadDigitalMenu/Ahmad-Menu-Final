@@ -1,0 +1,15 @@
+identifier:
+  name: Menu
+  key: y7mhyocj
+fields:
+  name:
+    identifier:
+      name: name
+    dataType:
+      scalarType: String
+  price:
+    identifier:
+      name: price
+    dataType:
+      scalarType: Integer
+description: ""

@@ -1,0 +1,33 @@
+key: Container_kbty8ccm
+type: Container
+props:
+  container:
+    dimensions:
+      width:
+        pixelsValue:
+          inputValue: Infinity
+    boxDecoration:
+      borderRadius:
+        type: FF_BORDER_RADIUS_ALL
+        allValue:
+          inputValue: 12
+      boxShadow:
+        blurRadiusValue:
+          inputValue: 8
+        colorValue:
+          inputValue:
+            value: "436207616"
+        dyValue:
+          inputValue: 2
+      colorValue:
+        inputValue:
+          themeColor: SECONDARY_BACKGROUND
+    animationDurationValue:
+      inputValue: 100
+  padding:
+    type: FF_PADDING_ALL
+    allValue:
+      inputValue: 16
+  opacity:
+    opacityValue:
+      inputValue: 1

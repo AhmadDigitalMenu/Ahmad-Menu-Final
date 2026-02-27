@@ -1,0 +1,90 @@
+node:
+  key: Scaffold_7gwc7gwx
+  body:
+    key: Column_06pwdojq
+    children:
+      - key: Container_o7m4mg46
+        children:
+          - key: Row_dko0u96h
+            children:
+              - key: Row_kulmbvsv
+                children:
+                  - key: Container_s9h9m341
+                  - key: Column_8lajlo7t
+                    children:
+                      - key: Text_kwc0q64m
+                      - key: Text_1s1lkq5o
+              - key: Container_4vug60tu
+                children:
+                  - key: Icon_clqzp3sc
+      - key: Row_n50zx2q5
+        children:
+          - key: TextField_j1zm8v1l
+          - key: IconButton_0koheviu
+      - key: ListView_o0r4zj2z
+        children:
+          - key: Container_lyrlh3x9
+            children:
+              - key: Row_um5wwd54
+                children:
+                  - key: Image_cyegbg29
+                  - key: Column_9av57446
+                    children:
+                      - key: Text_yoz40y7i
+                      - key: Text_a6kyr0cb
+                      - key: Row_disso8o5
+                        children:
+                          - key: Text_p3h1unwt
+                          - key: Button_7z9sd2ei
+          - key: Container_lp9jq9pa
+            children:
+              - key: Row_p2glh0vw
+                children:
+                  - key: Image_8xkerqgh
+                  - key: Column_xm90380t
+                    children:
+                      - key: Text_4n3cw7e5
+                      - key: Text_rxq51rzz
+                      - key: Row_d0ep8ptp
+                        children:
+                          - key: Text_dmf11yd5
+                          - key: Button_mqe7dg81
+          - key: Container_kbty8ccm
+            children:
+              - key: Row_g2mfo1us
+                children:
+                  - key: Image_brh4x9g1
+                  - key: Column_pkbja2kl
+                    children:
+                      - key: Text_wrt6sc8g
+                      - key: Text_fk4g1s0f
+                      - key: Row_dvlzz45v
+                        children:
+                          - key: Text_po29v19f
+                          - key: Button_xbl4vsup
+          - key: Container_dhd9e77g
+            children:
+              - key: Row_piayp2yl
+                children:
+                  - key: Image_by7qc1e0
+                  - key: Column_955xwetg
+                    children:
+                      - key: Text_u6oz9sbo
+                      - key: Text_0mqu88ol
+                      - key: Row_8qaet49n
+                        children:
+                          - key: Text_s3tj1ivo
+                          - key: Button_druca9hb
+          - key: Container_v96x4zsc
+            children:
+              - key: Row_7o419b9r
+                children:
+                  - key: Image_etlqoe3v
+                  - key: Column_73u01eer
+                    children:
+                      - key: Text_xeq3bj2u
+                      - key: Text_5n1yb1ei
+                      - key: Row_ygy0ylen
+                        children:
+                          - key: Text_y8p79215
+                          - key: Button_av3v62oa

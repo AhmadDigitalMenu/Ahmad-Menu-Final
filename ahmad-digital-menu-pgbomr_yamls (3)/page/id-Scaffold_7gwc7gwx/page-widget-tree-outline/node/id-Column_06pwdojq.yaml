@@ -1,0 +1,15 @@
+key: Column_06pwdojq
+type: Column
+props:
+  column:
+    scrollable: false
+    primary: true
+    minSizeValue:
+      inputValue: false
+  padding:
+    type: FF_PADDING_ALL
+    allValue:
+      inputValue: 0
+  opacity:
+    opacityValue:
+      inputValue: 1

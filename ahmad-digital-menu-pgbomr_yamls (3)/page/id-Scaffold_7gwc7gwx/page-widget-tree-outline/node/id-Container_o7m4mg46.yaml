@@ -1,0 +1,47 @@
+key: Container_o7m4mg46
+type: Container
+props:
+  container:
+    dimensions:
+      width:
+        pixelsValue:
+          inputValue: Infinity
+    boxDecoration:
+      borderRadius:
+        type: FF_BORDER_RADIUS_ALL
+        allValue:
+          inputValue: 12
+      gradient:
+        colors:
+          - color:
+              inputValue:
+                color:
+                  value: "4279903102"
+            transitionPoint:
+              inputValue:
+                serializedValue: "0.0"
+          - color:
+              inputValue:
+                color:
+                  value: "4281944491"
+            transitionPoint:
+              inputValue:
+                serializedValue: "1.0"
+        angleValue:
+          inputValue: 45
+      colorValue:
+        inputValue:
+          themeColor: PRIMARY
+    animationDurationValue:
+      inputValue: 100
+  padding:
+    type: FF_PADDING_ALL
+    leftValue:
+      inputValue: 16
+    rightValue:
+      inputValue: 16
+    allValue:
+      inputValue: 20
+  opacity:
+    opacityValue:
+      inputValue: 1

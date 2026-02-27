@@ -1,0 +1,20 @@
+key: Text_kwc0q64m
+type: Text
+props:
+  text:
+    themeStyle: HEADLINE_MEDIUM
+    selectable: false
+    textValue:
+      inputValue: AHMAD
+    colorValue:
+      inputValue:
+        value: "4294967295"
+    fontWeightValue:
+      inputValue: w700
+  padding:
+    type: FF_PADDING_ALL
+    allValue:
+      inputValue: 0
+  opacity:
+    opacityValue:
+      inputValue: 1

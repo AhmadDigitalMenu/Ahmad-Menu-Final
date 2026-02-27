@@ -1,0 +1,26 @@
+key: Image_8xkerqgh
+type: Image
+props:
+  image:
+    type: FF_IMAGE_TYPE_NETWORK
+    fit: FF_BOX_FIT_COVER
+    dimensions:
+      width:
+        pixelsValue:
+          inputValue: 80
+      height:
+        pixelsValue:
+          inputValue: 80
+    borderRadius:
+      type: FF_BORDER_RADIUS_ALL
+      allValue:
+        inputValue: 8
+    pathValue:
+      inputValue: https://images.unsplash.com/photo-1747654168933-a0a0c9d78d68?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NTYyMDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzE3MTE1NTd8&ixlib=rb-4.1.0&q=80&w=1080
+  padding:
+    type: FF_PADDING_ALL
+    allValue:
+      inputValue: 0
+  opacity:
+    opacityValue:
+      inputValue: 1

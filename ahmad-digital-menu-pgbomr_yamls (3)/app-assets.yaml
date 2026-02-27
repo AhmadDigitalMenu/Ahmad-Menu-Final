@@ -1,0 +1,13 @@
+splashImage:
+  path: projects/ahmad-digital-menu-pgbomr/assets/o0pgm1l3remn/Screenshot_20260212-235230.jpg
+  fit: FF_BOX_FIT_FILL
+  dimensions:
+    width:
+      percentOfScreenSizeValue:
+        inputValue: 100
+    height:
+      percentOfScreenSizeValue:
+        inputValue: 100
+  backgroundColor:
+    value: "0"
+  minSplashScreenDuration: 2500

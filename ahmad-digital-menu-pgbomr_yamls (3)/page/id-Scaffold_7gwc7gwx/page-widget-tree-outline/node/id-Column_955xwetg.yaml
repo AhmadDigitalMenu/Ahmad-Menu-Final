@@ -1,0 +1,18 @@
+key: Column_955xwetg
+type: Column
+props:
+  column:
+    crossAxisAlignment: cross_axis_start
+    scrollable: false
+    primary: true
+    minSizeValue:
+      inputValue: false
+  padding:
+    type: FF_PADDING_ALL
+    allValue:
+      inputValue: 0
+  expanded:
+    expandedType: EXPANDED
+  opacity:
+    opacityValue:
+      inputValue: 1

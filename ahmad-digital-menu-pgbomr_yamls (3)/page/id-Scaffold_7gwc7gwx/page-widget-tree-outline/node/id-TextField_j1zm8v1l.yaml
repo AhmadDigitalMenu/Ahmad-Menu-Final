@@ -1,0 +1,45 @@
+key: TextField_j1zm8v1l
+type: TextField
+props:
+  padding:
+    type: FF_PADDING_ALL
+    allValue:
+      inputValue: 0
+  expanded:
+    expandedType: EXPANDED
+  textField:
+    textStyle:
+      themeStyle: BODY_MEDIUM
+    inputDecoration:
+      inputBorderType: outline
+      borderRadius:
+        type: FF_BORDER_RADIUS_ALL
+        allValue:
+          inputValue: 25
+      hintStyle:
+        themeStyle: BODY_MEDIUM
+      hintText:
+        textValue:
+          inputValue: Search for food...
+      filledValue:
+        inputValue: true
+      fillColorValue:
+        inputValue:
+          themeColor: SECONDARY_BACKGROUND
+      borderWidthValue:
+        inputValue: 0
+    leadingIconValue:
+      inputValue:
+        sizeValue:
+          inputValue: 20
+        colorValue:
+          inputValue:
+            themeColor: SECONDARY_TEXT
+        iconDataValue:
+          inputValue:
+            codePoint: 58727
+            family: MaterialIcons
+            name: search
+  opacity:
+    opacityValue:
+      inputValue: 1

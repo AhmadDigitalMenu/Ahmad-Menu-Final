@@ -1,0 +1,25 @@
+key: Container_4vug60tu
+type: Container
+props:
+  container:
+    dimensions:
+      width:
+        pixelsValue:
+          inputValue: 45
+      height:
+        pixelsValue:
+          inputValue: 45
+    boxDecoration:
+      boxShape: FF_BOX_SHAPE_CIRCLE
+      colorValue:
+        inputValue:
+          value: "4292613180"
+    animationDurationValue:
+      inputValue: 100
+  padding:
+    type: FF_PADDING_ALL
+    allValue:
+      inputValue: 0
+  opacity:
+    opacityValue:
+      inputValue: 1

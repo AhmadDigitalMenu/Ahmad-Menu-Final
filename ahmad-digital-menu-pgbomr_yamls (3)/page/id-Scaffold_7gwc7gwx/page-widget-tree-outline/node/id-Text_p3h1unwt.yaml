@@ -1,0 +1,20 @@
+key: Text_p3h1unwt
+type: Text
+props:
+  text:
+    themeStyle: TITLE_SMALL
+    selectable: false
+    textValue:
+      inputValue: PKR 850
+    colorValue:
+      inputValue:
+        themeColor: PRIMARY
+    fontWeightValue:
+      inputValue: w700
+  padding:
+    type: FF_PADDING_ALL
+    allValue:
+      inputValue: 0
+  opacity:
+    opacityValue:
+      inputValue: 1

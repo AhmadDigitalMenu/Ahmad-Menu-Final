@@ -1,0 +1,29 @@
+key: Container_s9h9m341
+type: Container
+props:
+  container:
+    dimensions:
+      width:
+        pixelsValue:
+          inputValue: 50
+      height:
+        pixelsValue:
+          inputValue: 50
+    boxDecoration:
+      boxShape: FF_BOX_SHAPE_CIRCLE
+      image:
+        type: FF_IMAGE_TYPE_NETWORK
+        pathValue:
+          inputValue: https://images.unsplash.com/photo-1767111380895-b32940417776?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NTYyMDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzE3MTE1NTh8&ixlib=rb-4.1.0&q=80&w=1080
+      colorValue:
+        inputValue:
+          themeColor: SECONDARY_BACKGROUND
+    animationDurationValue:
+      inputValue: 100
+  padding:
+    type: FF_PADDING_ALL
+    allValue:
+      inputValue: 0
+  opacity:
+    opacityValue:
+      inputValue: 1
